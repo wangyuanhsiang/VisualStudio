@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Countries>
+  <Country>
+    <CountryID>101</CountryID>
+    <CountryName>Taiwan</CountryName>
+  </Country>
+  
+  <Country>
+    <CountryID>102</CountryID>
+    <CountryName>US</CountryName>
+  </Country>
+  
+  <Country>
+    <CountryID>103</CountryID>
+    <CountryName>Australia</CountryName>
+  </Country>
+  
+  <Country>
+    <CountryID>104</CountryID>
+    <CountryName>UK</CountryName>
+  </Country>
+  
+</Countries>
