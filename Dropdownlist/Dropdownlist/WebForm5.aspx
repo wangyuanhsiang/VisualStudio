@@ -9,10 +9,11 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        <asp:DropDownList ID="DropDownList1"    runat="server" DataTextField="CityName" DataValueField="CityId"></asp:DropDownList>
+        <asp:DropDownList ID="DropDownList1"    runat="server" DataTextField="CityName" DataValueField="Country"></asp:DropDownList>
         <br />
         <br />
-        <asp:Button ID="Button1" runat="server" Text="Button" />
+        <asp:Button ID="Button1" runat="server" Text="Button" OnClick="Button1_Click" />
+        <br />
     </div>
     </form>
 </body>

@@ -32,7 +32,7 @@ namespace Dropdownlist
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            Response.Write(" the Counrty is :" + DropDownList1.DataValueField.ToString());
+            Response.Write(" the Counrty is :" + DropDownList1.DataTextField);
         }
     }
 }
